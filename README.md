@@ -4,17 +4,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayj1981)  
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge)](Assets/Resume.pdf)  
 
-![Profile Image](your-photo.jpg)
 
 ## About Me
-I am a passionate data science and statistics student at City Tech, CUNY, with experience in **Python, R, SQL, and machine learning**. I enjoy analyzing data to uncover patterns and insights that drive informed decisions.  
+I am a passionate data science and statistics student at Baruch college, CUNY, with experience in **Python, R, SQL, and machine learning**. I enjoy analyzing data to uncover patterns and insights that drive informed decisions.  
 
-**💡 Fun Fact:** I once built a machine learning model that could classify images of fruits with **98% accuracy**!
+**💡 Fun Fact:** I play for my schools esports team!
 
 ---
 
 ## 🎓 Education
-**New York City College of Technology (City Tech), CUNY**, Brooklyn, NY  
+**Baruch College, CUNY**, New York, NY
 Bachelor of Business Administration in Statistics and Quantitative Modeling – *Expected May 2026*  
 Minor: Mathematics | GPA: 3.35/4.00  
 
