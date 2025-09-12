@@ -30,6 +30,14 @@ Minor: Mathematics | GPA: 3.35/4.00
 ---
 
 ## 📂 Projects
+
+**MTA Realtime Transit App 🚇🚌** *(Aug 2025)*  
+- Built a mobile app with Expo (React Native, TypeScript/TSX) to show real-time NYC subway and bus alerts via the MTA GTFS-RT API. 
+- Developed a full-stack solution with Node.js/Express, including fallback mock data for reliability.
+- Collaborated in a team of 4 to deliver a working prototype in 55 hours, demonstrating skills in REST APIs, agile teamwork, and full-stack development.
+- Tech Stack: React Native, TypeScript, Node.js, Express, MTA GTFS-RT API
+
+  
 **Traffic Pattern Analysis & Collision Trends in Manhattan** *(Oct 2024 – Dec 2024)*  
 - Developed a Flask application that classifies images of fruits using machine learning.  
 - Implemented SVM, PCA Random Forest Classifier, and Neural Networks using Python, scikit-learn, NumPy, Pandas, and TensorFlow.  
