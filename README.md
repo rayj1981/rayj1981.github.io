@@ -22,8 +22,9 @@ Minor: Mathematics | GPA: 3.35/4.00
 ---
 
 ## 💻 Skills
-- **Programming Languages:** Python, R, C++, SQL  
-- **Technologies:** Pandas, NumPy, R Studio, Matplotlib, Git/GitHub, Adobe Photoshop, Canva  
+- **Programming Languages:** Python, R, C++, SQL, TypeScript/React Native, Node.js/Express, JavaScript
+- **Technologies:** Pandas, NumPy, Matplotlib, React Navigation, Expo, REST APIs, Git/GitHub, Supabase
+- **Tools:** VSCode, R Studio, Adobe Photoshop, Canvas
 - **Certificates:** Stanford University Code in Place (June 2025)  
 - **Languages:** Chinese (Conversational)  
 
@@ -59,18 +60,10 @@ Minor: Mathematics | GPA: 3.35/4.00
 - Executed cross-platform content strategies, posting 20+ times weekly.  
 - Analyzed engagement metrics to refine content strategy, achieving **300% follower growth**.  
 
-**New York City Tech Bookstore & Café | Brooklyn, NY**  
-*Sales Associate – Jan 2025 – Present*  
-- Assisted customers in locating and recommending books.  
-- Operated the cash register and processed payments efficiently.
-
----
-
 ## 📫 Contact Me
 - 📧 raymond.jiang1@baruchmail.cuny.edu  
 - 📍 Brooklyn, NY  
 
 ---
 
-*“Turning data into actionable insights, one project at a time.”*  
 
