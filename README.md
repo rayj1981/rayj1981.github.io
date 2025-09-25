@@ -31,7 +31,7 @@ Minor: Mathematics | GPA: 3.35/4.00
 ---
 
 ## 📂 Projects
-**MTA ACE & Congestion Pricing Impact Analysis 🚍🚍* MHC++ Datathon Project (Sep 2025)*
+**MTA ACE & Congestion Pricing Impact Analysis 🚍🚍 MHC++ Datathon Project** *(Sep 2025)*
 
 - Analyzed how Automated Camera Enforcement (ACE) and upcoming Congestion Pricing affect NYC bus performance, focusing on CUNY student communities.
 - Processed 4+ years of MTA data using Python and GeoPandas, identifying 13% speed improvements on ACE-enforced routes through spatial and temporal analysis.
