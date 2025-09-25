@@ -31,7 +31,13 @@ Minor: Mathematics | GPA: 3.35/4.00
 ---
 
 ## 📂 Projects
+**MTA ACE & Congestion Pricing Impact Analysis 🚍🚍* MHC++ Datathon Project (Sep 2025)*
 
+- Analyzed how Automated Camera Enforcement (ACE) and upcoming Congestion Pricing affect NYC bus performance, focusing on CUNY student communities.
+- Processed 4+ years of MTA data using Python and GeoPandas, identifying 13% speed improvements on ACE-enforced routes through spatial and temporal analysis.
+- Modeled congestion pricing impacts by analyzing 4M+ violation records and creating geographic hotspots to predict traffic reduction benefits.
+- Tech Stack: Python, Pandas, GeoPandas, Spatial Analysis, Statistical Modeling, Data Visualization
+  
 **MTA Realtime Transit App 🚇🚌** *(Aug 2025)*  
 - Built a mobile app with Expo (React Native, TypeScript/TSX) to show real-time NYC subway and bus alerts via the MTA GTFS-RT API. 
 - Developed a full-stack solution with Node.js/Express, including fallback mock data for reliability.
@@ -40,9 +46,7 @@ Minor: Mathematics | GPA: 3.35/4.00
 
   
 **Traffic Pattern Analysis & Collision Trends in Manhattan** *(Oct 2024 – Dec 2024)*  
-- Developed a Flask application that classifies images of fruits using machine learning.  
-- Implemented SVM, PCA Random Forest Classifier, and Neural Networks using Python, scikit-learn, NumPy, Pandas, and TensorFlow.  
-- Achieved validation accuracy of **55%, 91%, and 98%** respectively.  
+
 
 ---
 
